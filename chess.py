@@ -83,7 +83,7 @@ def is_valid_coordinate(coord):
 
 def coordinate_to_index(coord):
     """Converts a coordinate (e.g. 'a1') into 0-indexed (x, y) tuple."""
-    return (ord(coord[0].lower()) - 1, int(coord[1]) - 1)
+    return (ord(coord[0].lower()) - ord('a'), int(coord[1]) - 1)
 
 
 def index_to_coordinate(pos):
