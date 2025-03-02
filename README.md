@@ -20,4 +20,4 @@ The program prints a list of black pieces the white piece can capture.
 It also displays the final chessboard with letters (a-h) and numbers (1-8).
 
 Code Link:
-https://github.com/TuringCollegeSubmissions/bbasha-PYDA.1.4/blob/main/chess.py
+[https://github.com/TuringCollegeSubmissions/bbasha-PYDA.1.4/blob/main/chess.py](https://github.com/badraabashar/bbasha-PYDA.1.4/blob/main/chess.py)
